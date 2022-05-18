@@ -18,8 +18,14 @@ print(hello)
 public class Helloworld {
     public static void main(String[] args) { 
         system.out.println(“Hello world”);
+/**
+1.  All code in Java must be part of a class
+2. begin and end a segments with { }
+3.  
+*/
     }
 }
 ```
-相比于
+相比于 `python`, `java` 的所有语句必须是 `class``的一部分，这是因为 java 是用于大型软件开发的编程语言，强制面向对象编程可以得到更好的结果
+
 
