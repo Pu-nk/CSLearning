@@ -42,14 +42,14 @@ public class Helloworld {
     public static void main(String[] args) { 
         int x = 0;
         while (x<10) {
-            system.ou
+            system.out.println(x)
+            x += 1;
         }
-        system.out.println(“Hello world”);
 /**
-1.  All code in Java must be part of a class
-2.  begin and end a segments with { }
-3.  must end with ; 
-4.  need public static void main()
+1.  java 是静态语言，定义变量前需要声明
+2.  java 变量必须有指定的类型
+3.  java 变量类型无法改变
+4.  java 在代码运行之前要验证类型，否则无法进行编译（python 至少会运行报错）
 */
     }
 }
