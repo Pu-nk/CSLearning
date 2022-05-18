@@ -37,5 +37,20 @@ while (x < 10):
     x = x+1
 ```
 如果我们想利用 java 作同样的事情
-
-
+```java
+public class Helloworld {
+    public static void main(String[] args) { 
+        int x = 0;
+        while (x<10) {
+            system.ou
+        }
+        system.out.println(“Hello world”);
+/**
+1.  All code in Java must be part of a class
+2.  begin and end a segments with { }
+3.  must end with ; 
+4.  need public static void main()
+*/
+    }
+}
+```
