@@ -11,6 +11,15 @@ date: 2022-05-18 15:59
 - Java
 
 ### Intro, hello java
+```python
+print(hello)
 ```
-prin
+```java
+public class Helloworld {
+    public static void main(String[] args) { 
+        system.out.println(“Hello world”);
+    }
+}
 ```
+相比于
+
