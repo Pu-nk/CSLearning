@@ -9,3 +9,8 @@ date: 2022-05-18 15:59
 - 大型程序的构建、设计
     - git, intelli J, JUnit 以及其他命令行工具
 - Java
+
+### Intro, hello java
+```
+prin
+```
