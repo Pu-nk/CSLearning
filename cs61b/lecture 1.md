@@ -54,3 +54,28 @@ public class Helloworld {
     }
 }
 ```
+
+在`python`中，可以通过`def`去定义函数然后去调用：
+```python
+def larger(x,y):
+    if x > y:
+        return x
+    return y
+```
+如果需要实现同样的事情在 java 中
+```java
+public class LargeDemo {
+    public static ?? larger(int x, int y){
+}
+    public static void main(String[] args) { 
+        system.out.println(“Hello world”);
+/**
+1.  在 java 中声明一个函数需要 public sta
+2.  begin and end a segments with { }
+3.  must end with ; 
+4.  need public static void main()
+*/
+    }
+}
+
+```
