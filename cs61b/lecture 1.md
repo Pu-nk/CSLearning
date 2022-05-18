@@ -65,15 +65,17 @@ def larger(x,y):
 如果需要实现同样的事情在 java 中
 ```java
 public class LargeDemo {
-    public static ?? larger(int x, int y){
+    public static int larger(int x, int y){
+        if (x>y) {
+            return x;    
+       }    
+        return y;
 }
     public static void main(String[] args) { 
-        system.out.println(“Hello world”);
+        system.out.println(larger(5, -10));
 /**
-1.  在 java 中声明一个函数需要 public sta
-2.  begin and end a segments with { }
-3.  must end with ; 
-4.  need public static void main()
+1.  在 java 中声明一个函数需要 public static
+2.  函数中参数必须都指定一个对象，函数本身也需要定义返回对象
 */
     }
 }
