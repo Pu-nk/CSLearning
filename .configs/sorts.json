@@ -1,0 +1,16 @@
+{
+  "" : [
+    "cs61b"
+  ],
+  "__positions" : {
+    "cs61b" : 1,
+    "cs61b\/lecture 1.md" : 1001
+  },
+  "cs61b" : [
+    "lecture 1.md"
+  ],
+  "__raw_positions" : {
+    "cs61b" : 1,
+    "cs61b\/lecture 1.md" : 1
+  }
+}
